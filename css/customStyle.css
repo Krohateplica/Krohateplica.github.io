@@ -1,0 +1,7 @@
+.options-list li{
+    list-style-type: none;
+}
+
+ ul.options-list.options-categories{
+    padding-left: 10px;
+}
