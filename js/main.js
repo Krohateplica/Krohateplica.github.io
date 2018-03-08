@@ -2,7 +2,7 @@ $( document ).ready(function() {
 
 	// Set carousel options
 	$('.carousel').carousel({
-	  interval: 3000 // 8 seconds vs. default 5
+	  interval: 4000 // 8 seconds vs. default 5
 	});
 
 });
