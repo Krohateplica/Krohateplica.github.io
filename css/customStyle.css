@@ -5,3 +5,7 @@
  ul.options-list.options-categories{
     padding-left: 10px;
 }
+
+ .dropdown h4{
+     color: whitesmoke;
+ }
